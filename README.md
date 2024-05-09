@@ -7,7 +7,7 @@
 
 - **Projects**: Explore my repositories to see examples of my work in MLOps, DevOps, and machine learning.
 - **Contributions**: Check out my contribution graph to see my activity and commitment to coding.
-- **Skills**: I specialize in Python, java, Docker, Kubernetes, CI/CD, and more. 
+  
 
 
 ---
