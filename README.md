@@ -45,5 +45,5 @@
 
 ## Get in Touch
 
-📫 Feel free to reach out to me via email at [abdullatifkhalid99@gmail.com](mailto:abdullatifkhalid99@gmail.com) or connect with me on [LinkedIn]([www.linkedin.com/in/abdullatif-habiba](https://www.linkedin.com/in/abdullatif-habiba-2031b6217/).
+📫 Feel free to reach out to me via email at [abdullatifkhalid99@gmail.com](mailto:abdullatifkhalid99@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abdullatif-habiba-2031b6217/).
 
