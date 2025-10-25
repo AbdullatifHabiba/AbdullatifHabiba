@@ -3,12 +3,12 @@
 
 👋 Hi, I'm Abdullatif Khalid — a passionate Software Engineer with a strong interest in DevOps. I love building efficient, scalable systems that streamline workflows by seamlessly integrating software engineering best practices with modern DevOps principles. Always learning, always optimizing. 🚀
 
+🌱 I’m currently learning System Design and Ai agentic models
+
+💬 Ask me about DevOps, Kubernetes, CICD, Automation, Terraform, Ansible, Docker, Software Engineering
 
 
- Here's a brief overview of what you'll find in my profile:
 
-- **Projects**: Explore my repositories to see examples of my work in Software Engineering , DevOps, and machine learning.
-- **Contributions**: Check out my contribution graph to see my activity and commitment to coding.
   
 
 
