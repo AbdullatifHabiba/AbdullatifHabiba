@@ -21,7 +21,6 @@
 ---
 # Trophies🏆
 ![](https://github-profile-trophy.vercel.app/?username=AbdullatifHabiba&theme=matrix&column=5)
-
 ---
 
 ![](https://visitcount.itsvg.in/api?id=AbdullatifHabiba&icon=5&color=0)
